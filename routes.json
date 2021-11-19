@@ -1,1 +1,1 @@
-{"/caisse/receipt/": "/caisse", "/referentiel/product/": "/productref/", "/api/*": "/$1", "/:resource/:id/show": "/:resource/:id", "/posts/:category": "/posts?category=:category", "/articles\\?id=:id": "/posts/:id", "/testingroutes/": "/posts/"}
+{"/caisse/receipt/": "/caisse", "/referentiel/product/": "/productref/", "/api/*": "/$1", "/:resource/:id/show": "/:resource/:id", "/posts/:category": "/posts?category=:category", "/articles\\?id=:id": "/posts/:id", "/testingroutes/": "/posts/", "/rouiytes": "/test/"}
